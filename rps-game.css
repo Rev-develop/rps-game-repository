@@ -1,1 +1,14 @@
 
+body {
+  background-color: lightpink;
+  align-items: center;
+}
+button {
+  height:50px;
+  width:70px;
+  background-color: lightblue;
+  border:2px solid white;
+}
+#output {
+  font-size:20px;
+}
